@@ -1,0 +1,18 @@
+{
+  "career":{
+        "objective":"To be succed in computer Science"
+  },
+  "education":[
+    {
+  "degree":"B-Tech(C.S.E)",
+  "college":"SVCET",
+  "data":["2015-2019","70%"],
+},
+{
+  "degree":"Intermediate(M.P.C)",
+  "college":"SVCET",
+  "data":["2013-2015","80%"],
+},
+]
+
+}
